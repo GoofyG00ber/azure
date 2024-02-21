@@ -1,0 +1,2 @@
+# azure
+sql gyak
